@@ -273,6 +273,10 @@ footer .footer-links{
 	margin-bottom: 10px;
 	color: black;
 }
+p.author{
+	text-align: center;
+	font-family: 'Karla', sans-serif;
+}
 
 @media screen and (max-width: 892px){
 	nav{
